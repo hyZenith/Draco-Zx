@@ -1,0 +1,22 @@
+{
+  "name": "draco-zx",
+  "displayName": "Draco-Zx",
+  "description": "draco-zx",
+  "version": "0.0.1",
+  "publisher": "Draco-Zx",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Draco-Zx",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Draco-Zx-color-theme.json"
+      }
+    ]
+  }
+}
