@@ -11,6 +11,11 @@
   "engines": {
     "vscode": "^1.85.0"
   },
+  "keywords": [
+    "theme",
+    "Draco",
+    "draco-zx"
+  ],
   "categories": [
     "Themes"
   ],
