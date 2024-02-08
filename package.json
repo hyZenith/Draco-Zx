@@ -1,9 +1,9 @@
 {
   "name": "draco-zx",
   "displayName": "Draco-Zx",
-  "description": "draco-zx",
+  "description": "",
   "version": "1.2.0",
-  "publisher": "Draco-Zx",
+  "publisher": "Andromeda-custom",
   "repository": {
     "type": "git",
     "url": "https://github.com/hyZenith/Draco-Zx"
